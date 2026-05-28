@@ -1,0 +1,13 @@
+# 系统文件
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-*
+
+# 图片缓存
+images/*.png
