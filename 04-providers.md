@@ -37,7 +37,7 @@
 **不足**：
 - ⚠️ 节点数量不算特别多，但够用
 
-> 🔗 **直达链接：[https://api.huanghaiwan.com/go/自由猫](https://api.huanghaiwan.com/go/自由猫)**
+> 🔗 **[直达链接](https://api.huanghaiwan.com/go/自由猫)**
 
 ---
 
@@ -55,7 +55,7 @@
 | **价格** | 15 元/月起（100G，不限设备） |
 | **特点** | IPLC 专线质量稳定，72+ 节点，流媒体解锁好 |
 | **适合** | 对稳定性要求高的人 |
-| **链接** | [https://api.huanghaiwan.com/go/龙猫云](https://api.huanghaiwan.com/go/龙猫云) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/龙猫云) |
 
 #### [万达云](https://api.huanghaiwan.com/go/万达云)
 
@@ -65,7 +65,7 @@
 | **价格** | 13.9 元/月起（150G，5 台设备） |
 | **特点** | 全专线节点，晚高峰不限速，倍率全部 x1 无坑 |
 | **适合** | 追求性价比的专线用户 |
-| **链接** | [https://api.huanghaiwan.com/go/万达云](https://api.huanghaiwan.com/go/万达云) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/万达云) |
 
 #### [悠兔](https://api.huanghaiwan.com/go/悠兔)
 
@@ -75,7 +75,7 @@
 | **价格** | 29 元/月起（150G，不限设备） |
 | **特点** | 52+ 节点，运营 2022 年至今，老牌专线机场 |
 | **适合** | 需要多种线路选择的人 |
-| **链接** | [https://api.huanghaiwan.com/go/悠兔](https://api.huanghaiwan.com/go/悠兔) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/悠兔) |
 
 ---
 
@@ -89,7 +89,7 @@
 | **价格** | 20 元/月起（120G） |
 | **特点** | 84+ 节点，三网 BGP 入口，高峰期表现好 |
 | **适合** | 日常使用频率较高的人 |
-| **链接** | [https://api.huanghaiwan.com/go/肥猫云](https://api.huanghaiwan.com/go/肥猫云) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/肥猫云) |
 
 #### [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard)
 
@@ -99,7 +99,7 @@
 | **价格** | 18 元/月起（100G） |
 | **特点** | 30+ 节点，Vless+Trojan 协议 |
 | **适合** | 想要多种协议选择的人 |
-| **链接** | [https://api.huanghaiwan.com/go/Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/Cyberguard) |
 
 #### [闪狐云](https://api.huanghaiwan.com/go/闪狐云)
 
@@ -109,7 +109,7 @@
 | **价格** | 20 元/月起（120G，不限设备） |
 | **特点** | 1000Mbps 速率，晚高峰不限速 |
 | **适合** | 2025 年新上线，适合尝鲜 |
-| **链接** | [https://api.huanghaiwan.com/go/闪狐云](https://api.huanghaiwan.com/go/闪狐云) |
+| **链接** | [直达](https://api.huanghaiwan.com/go/闪狐云) |
 
 ---
 

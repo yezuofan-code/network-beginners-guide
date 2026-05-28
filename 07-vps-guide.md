@@ -77,7 +77,7 @@
 
 > 💡 **重点**：阿里云国内站和国际站是两套系统。国际站购买的香港 ECS 才有 CN2 线路。
 >
-> 🔗 **注册链接：[https://api.huanghaiwan.com/go/2605280003](https://api.huanghaiwan.com/go/2605280003)（85 折优惠）**
+> 🔗 **[注册链接](https://api.huanghaiwan.com/go/2605280003)（85 折优惠）**
 
 ### 腾讯云国际
 
@@ -205,15 +205,13 @@ traceroute 你的VPS的IP
 
 ## 📌 本章小结
 
-```
-需求                推荐                       大概价格
-─────────────────────────────────────────────────────────
-自用试试           [RackNerd](https://api.huanghaiwan.com/go/2605280008)                     $3-5/月
-想体验 CN2 GIA     [HostDare](https://api.huanghaiwan.com/go/2605280006)                     $5-8/月
-需要稳定线路       [DMIT](https://api.huanghaiwan.com/go/2605280007)                         $10-15/月
-追求大厂品质       [阿里云国际](https://api.huanghaiwan.com/go/2605280003) （85折）            $5-10/月
-不差钱要最好       [搬瓦工](https://api.huanghaiwan.com/go/2605280005)                        $15-30/月
-```
+| 需求 | 推荐 | 大概价格 |
+|-----|------|:-------:|
+| 自用试试 | [RackNerd](https://api.huanghaiwan.com/go/2605280008) | $3-5/月 |
+| 想体验 CN2 GIA | [HostDare](https://api.huanghaiwan.com/go/2605280006) | $5-8/月 |
+| 需要稳定线路 | [DMIT](https://api.huanghaiwan.com/go/2605280007) | $10-15/月 |
+| 追求大厂品质 | [阿里云国际](https://api.huanghaiwan.com/go/2605280003)（85折） | $5-10/月 |
+| 不差钱要最好 | [搬瓦工](https://api.huanghaiwan.com/go/2605280005) | $15-30/月 |
 
 > 💡 记得：**先月付试用，稳定了再考虑长期付**。尤其是小厂商，跑路是常有的事。
 
