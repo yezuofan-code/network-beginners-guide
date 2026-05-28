@@ -70,12 +70,14 @@
 | 项目 | 内容 |
 |------|------|
 | **CN2 情况** | ✅ **大厂里唯一有 CN2 的** |
-| **怎么买** | 用阿里云国际站（不是国内站），需要海外账号 |
+| **怎么买** | 用 [阿里云国际站](https://api.huanghaiwan.com/go/2605280003)（不是国内站），需要海外账号 |
 | **线路** | 香港节点有 CN2 直连 |
-| **价格** | $5-10/月起 |
+| **价格** | $5-10/月起（通过链接注册享 **85 折**） |
 | **适合** | 对线路要求高、预算充足的 |
 
 > 💡 **重点**：阿里云国内站和国际站是两套系统。国际站购买的香港 ECS 才有 CN2 线路。
+>
+> 🔗 **注册链接：[https://api.huanghaiwan.com/go/2605280003](https://api.huanghaiwan.com/go/2605280003)（85 折优惠）**
 
 ### 腾讯云国际
 
@@ -127,20 +129,20 @@
 
 有两个选择：
 
-#### 选择一：阿里云国际站
+#### 选择一：[阿里云国际站](https://api.huanghaiwan.com/go/2605280003)
 
-- 注册阿里云国际站（不要用国内站）
+- [注册阿里云国际站](https://api.huanghaiwan.com/go/2605280003)（不要用国内站），享 **85 折**
 - 买香港地域的 ECS
 - 线路自动走 CN2
 
 #### 选择二：专门做 CN2 的小厂商
 
-| 厂商 | 特点 | 价格 |
-|-----|------|------|
-| **HostDare** | CN2 GIA 线路，便宜 | $4-8/月起 |
-| **DMIT** | CN2 GIA 高端线路 | $6-15/月起 |
-| **BandwagonHost（搬瓦工）** | CN2 GIA 经典选择 | $10-30/月起 |
-| **RackNerd** | CN2 GT 线路，性价比高 | $3-5/月起 |
+| 厂商 | 特点 | 价格 | 链接 |
+|-----|------|------|------|
+| **[HostDare](https://api.huanghaiwan.com/go/2605280006)** | CN2 GIA 线路，便宜 | $4-8/月起 | [直达](https://api.huanghaiwan.com/go/2605280006) |
+| **[DMIT](https://api.huanghaiwan.com/go/2605280007)** | CN2 GIA 高端线路 | $6-15/月起 | [直达](https://api.huanghaiwan.com/go/2605280007) |
+| **[搬瓦工](https://api.huanghaiwan.com/go/2605280005)** | CN2 GIA 经典选择 | $10-30/月起 | [直达](https://api.huanghaiwan.com/go/2605280005) |
+| **[RackNerd](https://api.huanghaiwan.com/go/2605280008)** | CN2 GT 线路，性价比高 | $3-5/月起 | [直达](https://api.huanghaiwan.com/go/2605280008) |
 
 > ⚠️ **小厂商风险**：便宜是便宜，但服务商可能跑路、线路可能变更。建议月付，不要一次买太久。
 
@@ -186,17 +188,17 @@ traceroute 你的VPS的IP
 
 ## 六、按预算买 VPS
 
-| 预算 | 推荐方案 | 线路 |
-|-----|---------|------|
-| **$3-5/月** | RackNerd（CN2 GT） | 半程高速 |
-| **$5-10/月** | HostDare（CN2 GIA）/ 阿里云国际 | 全程高速 |
-| **$10-20/月** | DMIT（CN2 GIA）/ 搬瓦工 | 高端线路 |
-| **自用搭建** | 香港 VPS + 中转 | 综合最优 |
+| 预算 | 推荐方案 | 线路 | 链接 |
+|-----|---------|------|------|
+| **$3-5/月** | [RackNerd](https://api.huanghaiwan.com/go/2605280008)（CN2 GT） | 半程高速 | [直达](https://api.huanghaiwan.com/go/2605280008) |
+| **$5-10/月** | [HostDare](https://api.huanghaiwan.com/go/2605280006)（CN2 GIA）/ [阿里云国际](https://api.huanghaiwan.com/go/2605280003) | 全程高速 | [HostDare](https://api.huanghaiwan.com/go/2605280006) / [阿里云](https://api.huanghaiwan.com/go/2605280003) |
+| **$10-20/月** | [DMIT](https://api.huanghaiwan.com/go/2605280007)（CN2 GIA）/ [搬瓦工](https://api.huanghaiwan.com/go/2605280005) | 高端线路 | [DMIT](https://api.huanghaiwan.com/go/2605280007) / [搬瓦工](https://api.huanghaiwan.com/go/2605280005) |
+| **自用搭建** | 香港 VPS + 中转 | 综合最优 | — |
 
 > 💡 **个人建议**：
 > 
-> - 只是自己用 → RackNerd 或 HostDare 就够
-> - 做业务用 → 阿里云国际或 DMIT
+> - 只是自己用 → [RackNerd](https://api.huanghaiwan.com/go/2605280008) 或 [HostDare](https://api.huanghaiwan.com/go/2605280006) 就够
+> - 做业务用 → [阿里云国际](https://api.huanghaiwan.com/go/2605280003) 或 [DMIT](https://api.huanghaiwan.com/go/2605280007)
 > - 新手先别买太贵，$5-10/月试水
 
 ---
@@ -204,13 +206,13 @@ traceroute 你的VPS的IP
 ## 📌 本章小结
 
 ```
-需求                推荐             大概价格
-─────────────────────────────────────────────
-自用试试           RackNerd         $3-5/月
-想体验 CN2 GIA     HostDare         $5-8/月
-需要稳定线路       DMIT              $10-15/月
-追求大厂品质       阿里云国际        $5-10/月
-不差钱要最好       搬瓦工 CN2 GIA   $15-30/月
+需求                推荐                       大概价格
+─────────────────────────────────────────────────────────
+自用试试           [RackNerd](https://api.huanghaiwan.com/go/2605280008)                     $3-5/月
+想体验 CN2 GIA     [HostDare](https://api.huanghaiwan.com/go/2605280006)                     $5-8/月
+需要稳定线路       [DMIT](https://api.huanghaiwan.com/go/2605280007)                         $10-15/月
+追求大厂品质       [阿里云国际](https://api.huanghaiwan.com/go/2605280003) （85折）            $5-10/月
+不差钱要最好       [搬瓦工](https://api.huanghaiwan.com/go/2605280005)                        $15-30/月
 ```
 
 > 💡 记得：**先月付试用，稳定了再考虑长期付**。尤其是小厂商，跑路是常有的事。

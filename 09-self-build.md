@@ -45,7 +45,7 @@
 ```
 LoongProxy 静态住宅 IP（解决 TK 敏感 IP 问题）
           ↓
-香港 CN2 主机（用阿里云国际站买的，做中转）
+香港 CN2 主机（用 [阿里云国际站](https://api.huanghaiwan.com/go/2605280003) 买的，做中转）
           ↓
 目标服务器（马来西亚等）
 ```
@@ -123,14 +123,14 @@ LoongProxy 静态住宅 IP（解决 TK 敏感 IP 问题）
 ### 准备工作
 
 你需要买：
-1. **一台香港 VPS**（推荐阿里云国际站香港地域，或者 HostDare CN2 GIA）
+1. **一台香港 VPS**（推荐 [阿里云国际站](https://api.huanghaiwan.com/go/2605280003) 香港地域，或者 [HostDare](https://api.huanghaiwan.com/go/2605280006) CN2 GIA）
 2. **LoongProxy 静态住宅 IP**（目标国家的）
 
 ### 第 1 步：购买香港 VPS
 
 我这里以阿里云国际站为例：
 
-1. 访问阿里云国际站（`alibabacloud.com`，不是 `.cn`）
+1. 访问 [阿里云国际站](https://api.huanghaiwan.com/go/2605280003)（`alibabacloud.com`，不是 `.cn`）
 2. 注册账号（需要用海外邮箱）
 3. 选择 **ECS** → **香港地域**
 4. 配置：
@@ -139,7 +139,7 @@ LoongProxy 静态住宅 IP（解决 TK 敏感 IP 问题）
    - 带宽：按量付费或 100Mbps 峰值
 5. 付款启动
 
-> 如果你不想买阿里云，HostDare 的 CN2 GIA 套餐也可以，$5-8/月。
+> 如果你不想买 [阿里云](https://api.huanghaiwan.com/go/2605280003)，[HostDare](https://api.huanghaiwan.com/go/2605280006) 的 CN2 GIA 套餐也可以，$5-8/月。
 
 ### 第 2 步：安装 WireGuard（服务端）
 
